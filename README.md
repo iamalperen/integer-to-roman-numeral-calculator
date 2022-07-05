@@ -1,25 +1,50 @@
-# Next.js + Jest
+# Integer to Roman Numeral Calculator Next.js App
 
-This example shows how to configure Jest to work with Next.js.
+React Roman Numeral Calculator that helps people to convert integer numbers to roman numerals
 
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript.
 
-## How to Use
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+[![PyPI](https://img.shields.io/pypi/status/Django.svg)]()
 
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
 
-In your terminal, run the following command:
+## Project Overview
 
-```bash
-npx create-next-app --example with-jest with-jest-app
-# or
-yarn create next-app --example with-jest with-jest-app
-# or
-pnpm create next-app --example with-jest with-jest-app
-```
+**Screenshots :**
 
-## Run Jest Tests
+![](./ss.png)
 
-```bash
-npm test
-```
+
+## Used Technologies
+- React
+- React Hooks
+- Next.js
+- FontAwesome Icons
+- TypeScript
+- Jest
+- Styled-Components
+- Normalize.css
+- ESLint
+- Prettier
+- Husky
+- Lint-staged
+
+
+
+## Build
+
+- Make sure that you have `npm` on your machine
+- Run `npm install` to install npm dependencies of project
+- After npm packages installed successfully, just run `npm run build`
+
+
+## Development
+- Make sure that you have `npm` on your machine
+- Run `npm install` to install npm dependencies of project
+- After npm packages installed successfully, just run `npm run dev`
+- Navigate to `http://localhost:3000/`.
+- The app will automatically reload if you change any of the source files.
+
+
+## Meta
+
+Created and maintained by [Alperen](https://github.com/iamalperen) under [MIT](LICENSE.md) License
