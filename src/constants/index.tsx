@@ -1,0 +1,2 @@
+export const CALCULATOR_MIN_INPUT = 1;
+export const CALCULATOR_MAX_INPUT = 1000;

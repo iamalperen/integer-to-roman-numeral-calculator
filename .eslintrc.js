@@ -44,6 +44,7 @@ module.exports = {
       },
     ],
     '@typescript-eslint/explicit-function-return-type': 'off',
+    "no-param-reassign": 'off'
   },
   settings: {
     'import/resolver': {
